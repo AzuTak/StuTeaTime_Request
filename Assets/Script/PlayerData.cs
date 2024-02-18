@@ -17,11 +17,19 @@ public class PlayerData : MonoBehaviour
     SaveAndLoad SaveAndLoad;
     SoundPlayer SoundPlayer;
     public SaveData SaveData;
+<<<<<<< HEAD
+=======
+    public List<string> OrderMenu = new List<string>();
+>>>>>>> weizu/main
     public List<string> MenuList = new List<string>();
     string FilePath;
     public bool First = false;
     public string GameMode = "None";
+<<<<<<< HEAD
     public int Money = 0;
+=======
+    public int Money;
+>>>>>>> weizu/main
     public int Hour;
     public int Min;
     public string LastGameMode;
@@ -73,6 +81,10 @@ public class PlayerData : MonoBehaviour
     IEnumerator StartIn()
     {
         yield return new WaitUntil(() => SaveAndLoad.LoadEnd);
+<<<<<<< HEAD
+=======
+        SoundPlayer.SoundID = 2;
+>>>>>>> weizu/main
         //ロード
         //上書き
         if(First == false)
@@ -81,6 +93,10 @@ public class PlayerData : MonoBehaviour
             StudyUI.SetActive(false);
             MenuUI.SetActive(false);
             TextScript.Message("マスター" , "おや。始めてご来店のお客さんかい？<>うちは他所の喫茶店と違って勉強に集中してもらう<>ことをコンセプトにしているんだ。<>これからも足繁く通ってほしいからね。<>サービスでコーヒー一杯無料にしといてあげよう。" , 0.05f);
+<<<<<<< HEAD
+=======
+            OrderMenu.Add("コーヒー");
+>>>>>>> weizu/main
             Money += 100;
         }
         else

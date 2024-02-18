@@ -104,7 +104,11 @@ NavMeshSettings:
   serializedVersion: 2
   m_ObjectHideFlags: 0
   m_BuildSettings:
+<<<<<<< HEAD
     serializedVersion: 2
+=======
+    serializedVersion: 3
+>>>>>>> weizu/main
     agentTypeID: 0
     agentRadius: 0.5
     agentHeight: 2
@@ -117,7 +121,11 @@ NavMeshSettings:
     cellSize: 0.16666667
     manualTileSize: 0
     tileSize: 256
+<<<<<<< HEAD
     accuratePlacement: 0
+=======
+    buildHeightMesh: 0
+>>>>>>> weizu/main
     maxJobWorkers: 0
     preserveTilesOutsideBounds: 0
     debug:
@@ -156,7 +164,10 @@ RectTransform:
   m_Children:
   - {fileID: 1969632152}
   m_Father: {fileID: 282939403}
+<<<<<<< HEAD
   m_RootOrder: 3
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -244,7 +255,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1736874218}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -293,6 +307,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 25002826}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &30633897
 GameObject:
   m_ObjectHideFlags: 0
@@ -338,6 +353,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> weizu/main
 --- !u!1 &39144924
 GameObject:
   m_ObjectHideFlags: 0
@@ -361,6 +378,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 39144924}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -373,7 +394,10 @@ Transform:
   - {fileID: 139525161}
   - {fileID: 527426904}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 4
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &75884489
 GameObject:
@@ -406,7 +430,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 3
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -483,7 +510,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 594436166}
+<<<<<<< HEAD
   m_RootOrder: 4
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -563,6 +593,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 139525160}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -570,7 +604,10 @@ Transform:
   m_Children:
   - {fileID: 594436166}
   m_Father: {fileID: 39144925}
+<<<<<<< HEAD
   m_RootOrder: 4
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &168566912
 GameObject:
@@ -602,7 +639,10 @@ RectTransform:
   m_Children:
   - {fileID: 1736874218}
   m_Father: {fileID: 578071785}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -620,7 +660,10 @@ GameObject:
   - component: {fileID: 207446370}
   - component: {fileID: 207446372}
   - component: {fileID: 207446371}
+<<<<<<< HEAD
   - component: {fileID: 207446373}
+=======
+>>>>>>> weizu/main
   m_Layer: 0
   m_Name: MenuSelect
   m_TagString: Untagged
@@ -641,7 +684,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -686,6 +732,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 207446369}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!95 &207446373
 Animator:
   serializedVersion: 5
@@ -707,6 +754,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> weizu/main
 --- !u!1 &282939402
 GameObject:
   m_ObjectHideFlags: 0
@@ -744,7 +793,10 @@ RectTransform:
   - {fileID: 8684293}
   - {fileID: 384844437}
   m_Father: {fileID: 1108693651}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -810,6 +862,10 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
+<<<<<<< HEAD
+=======
+  m_UpdateRectTransformForStandalone: 0
+>>>>>>> weizu/main
   m_SortingLayerID: 0
   m_SortingOrder: 1
   m_TargetDisplay: 0
@@ -844,7 +900,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2120153539}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -923,7 +982,10 @@ RectTransform:
   m_Children:
   - {fileID: 2071606874}
   m_Father: {fileID: 1854739945}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1047,7 +1109,10 @@ GameObject:
   - component: {fileID: 328062451}
   - component: {fileID: 328062453}
   - component: {fileID: 328062452}
+<<<<<<< HEAD
   - component: {fileID: 328062454}
+=======
+>>>>>>> weizu/main
   m_Layer: 0
   m_Name: Menu3
   m_TagString: Untagged
@@ -1070,7 +1135,10 @@ RectTransform:
   - {fileID: 1593752176}
   - {fileID: 518970917}
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 10
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1097,7 +1165,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 0}
+=======
+  m_Sprite: {fileID: 21300000, guid: 2e661c95ad821f945918b7d9489e77b8, type: 3}
+>>>>>>> weizu/main
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1115,6 +1187,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 328062450}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!95 &328062454
 Animator:
   serializedVersion: 5
@@ -1136,6 +1209,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> weizu/main
 --- !u!1 &342085613
 GameObject:
   m_ObjectHideFlags: 0
@@ -1167,7 +1242,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1195151232}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1212,6 +1290,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 342085613}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &346688702
 GameObject:
   m_ObjectHideFlags: 0
@@ -1296,6 +1375,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> weizu/main
 --- !u!1 &348767462
 GameObject:
   m_ObjectHideFlags: 0
@@ -1330,7 +1411,10 @@ RectTransform:
   m_Children:
   - {fileID: 572320547}
   m_Father: {fileID: 1666878562}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1477,7 +1561,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 282939403}
+<<<<<<< HEAD
   m_RootOrder: 4
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 65.574, y: -16.34, z: 65.131}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1634,7 +1721,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 413696392}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1716,7 +1806,10 @@ RectTransform:
   - {fileID: 595184644}
   - {fileID: 398052216}
   m_Father: {fileID: 1100153751}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -1802,7 +1895,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1370329324}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -1881,7 +1977,10 @@ RectTransform:
   m_Children:
   - {fileID: 971938329}
   m_Father: {fileID: 328062451}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2035,9 +2134,23 @@ Camera:
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
+<<<<<<< HEAD
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
   m_FocalLength: 50
+=======
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+>>>>>>> weizu/main
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -2071,13 +2184,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &519420033
 MonoBehaviour:
@@ -2229,6 +2349,13 @@ MonoBehaviour:
     LoopStartTime: 0
     EndTime: 56
     Memo: "\u86CD\u306E\u5149\nhttps://howlingindicator.net/closed/"
+<<<<<<< HEAD
+=======
+  - Audio: {fileID: 8300000, guid: 8b4c820b698314f4c859180f370c0e52, type: 3}
+    LoopStartTime: 0
+    EndTime: 97
+    Memo: "\u30BF\u30A4\u30C8\u30EB\u4E0D\u660E\n\u30EA\u30F3\u30AF"
+>>>>>>> weizu/main
   Audio: {fileID: 0}
   Delay: 0
   IsIntroEnd: 0
@@ -2240,13 +2367,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 524796077}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1219.1903, y: 819.1946, z: 24.412685}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &527426903
 GameObject:
@@ -2257,6 +2391,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 527426904}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 527426905}
+>>>>>>> weizu/main
   m_Layer: 0
   m_Name: MenuUI
   m_TagString: Untagged
@@ -2271,6 +2409,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 527426903}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -2278,8 +2420,24 @@ Transform:
   m_Children:
   - {fileID: 2130280699}
   m_Father: {fileID: 39144925}
+<<<<<<< HEAD
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &527426905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527426903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f9409df54244a246b5bff53e8c954c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> weizu/main
 --- !u!1 &529277960
 GameObject:
   m_ObjectHideFlags: 0
@@ -2313,7 +2471,10 @@ RectTransform:
   m_Children:
   - {fileID: 560131742}
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2401,7 +2562,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1736874218}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2477,7 +2641,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 529277961}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2557,7 +2724,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 651830884}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2637,7 +2807,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 348767463}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2719,7 +2892,10 @@ RectTransform:
   m_Children:
   - {fileID: 168566913}
   m_Father: {fileID: 1094429189}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2808,7 +2984,10 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+<<<<<<< HEAD
   - {fileID: 1452621323}
+=======
+>>>>>>> weizu/main
   - {fileID: 846622903}
   - {fileID: 651436728}
   - {fileID: 1900117827}
@@ -2816,11 +2995,15 @@ RectTransform:
   - {fileID: 1474303524}
   - {fileID: 631181125}
   - {fileID: 1041067555}
+<<<<<<< HEAD
   - {fileID: 1586893998}
   - {fileID: 782981768}
   - {fileID: 774236705}
   m_Father: {fileID: 139525161}
   m_RootOrder: 0
+=======
+  m_Father: {fileID: 139525161}
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2886,6 +3069,10 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 0
+<<<<<<< HEAD
+=======
+  m_UpdateRectTransformForStandalone: 0
+>>>>>>> weizu/main
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -2920,7 +3107,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 413696392}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
@@ -2996,7 +3186,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 870518718}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3077,7 +3270,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 594436166}
+<<<<<<< HEAD
   m_RootOrder: 6
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3167,7 +3363,10 @@ RectTransform:
   m_Children:
   - {fileID: 2048197764}
   m_Father: {fileID: 1094429189}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -3293,7 +3492,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 594436166}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3384,7 +3586,10 @@ RectTransform:
   m_Children:
   - {fileID: 566283494}
   m_Father: {fileID: 1666878562}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3528,7 +3733,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1161998636}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -3604,7 +3812,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 3
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3686,7 +3897,10 @@ RectTransform:
   m_Children:
   - {fileID: 1100153751}
   m_Father: {fileID: 1178941504}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -3744,6 +3958,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 753387123}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &774236704
 GameObject:
   m_ObjectHideFlags: 0
@@ -3855,6 +4070,8 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+>>>>>>> weizu/main
 --- !u!1 &846622902
 GameObject:
   m_ObjectHideFlags: 0
@@ -3867,6 +4084,10 @@ GameObject:
   - component: {fileID: 846622905}
   - component: {fileID: 846622904}
   - component: {fileID: 846622906}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 846622907}
+>>>>>>> weizu/main
   m_Layer: 0
   m_Name: Illust
   m_TagString: Untagged
@@ -3887,7 +4108,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 594436166}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3914,7 +4138,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 59ba558cb01265447b47c644a7c2c8a9, type: 3}
+=======
+  m_Sprite: {fileID: 21300000, guid: 3517e847134b1024b816fb1962840ca6, type: 3}
+>>>>>>> weizu/main
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3944,6 +4172,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8248f43a79ed1ad449fd466362f822be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+=======
+--- !u!114 &846622907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 846622902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad726eb73d6c494d86d8b4a8747c85d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TimeSpan: 0
+  LastMin: 0
+  i: 1
+  Sprites:
+  - {fileID: 21300000, guid: 3517e847134b1024b816fb1962840ca6, type: 3}
+  - {fileID: 21300000, guid: e7b1b3b17037b384c90ec9a010ae7225, type: 3}
+  - {fileID: 21300000, guid: c03b80e03f858e340ac7dd6c2be2a42e, type: 3}
+>>>>>>> weizu/main
 --- !u!1 &867218312
 GameObject:
   m_ObjectHideFlags: 0
@@ -3967,6 +4217,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 867218312}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -3974,7 +4228,10 @@ Transform:
   m_Children:
   - {fileID: 2066489477}
   m_Father: {fileID: 39144925}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &870518717
 GameObject:
@@ -4010,7 +4267,10 @@ RectTransform:
   m_Children:
   - {fileID: 614943222}
   m_Father: {fileID: 282939403}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -4154,7 +4414,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 6
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
@@ -4235,7 +4498,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1052140634}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4325,7 +4591,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1148136387}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -4405,7 +4674,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 518970917}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -4486,7 +4758,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 594436166}
+<<<<<<< HEAD
   m_RootOrder: 7
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4580,7 +4855,10 @@ RectTransform:
   - {fileID: 1753831688}
   - {fileID: 1525570191}
   m_Father: {fileID: 282939403}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4736,7 +5014,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 7
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
@@ -4819,7 +5100,10 @@ RectTransform:
   - {fileID: 578071785}
   - {fileID: 634157717}
   m_Father: {fileID: 2120153539}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -4924,7 +5208,10 @@ RectTransform:
   m_Children:
   - {fileID: 413696392}
   m_Father: {fileID: 753387124}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -4954,6 +5241,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1108693650}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -4961,7 +5252,10 @@ Transform:
   m_Children:
   - {fileID: 282939403}
   m_Father: {fileID: 39144925}
+<<<<<<< HEAD
   m_RootOrder: 3
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1121013937
 GameObject:
@@ -4994,7 +5288,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1849747620}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5074,7 +5371,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1370329324}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -5157,7 +5457,10 @@ RectTransform:
   m_Children:
   - {fileID: 959466324}
   m_Father: {fileID: 1854739945}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5270,6 +5573,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1148136386}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &1153308558
 GameObject:
   m_ObjectHideFlags: 0
@@ -5346,6 +5650,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1153308558}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> weizu/main
 --- !u!1 &1161998635
 GameObject:
   m_ObjectHideFlags: 0
@@ -5380,7 +5686,10 @@ RectTransform:
   - {fileID: 1764851588}
   - {fileID: 662976967}
   m_Father: {fileID: 1535752847}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -5446,6 +5755,10 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 0
+<<<<<<< HEAD
+=======
+  m_UpdateRectTransformForStandalone: 0
+>>>>>>> weizu/main
   m_SortingLayerID: 0
   m_SortingOrder: 10
   m_TargetDisplay: 0
@@ -5483,7 +5796,10 @@ RectTransform:
   - {fileID: 753387124}
   - {fileID: 1364705399}
   m_Father: {fileID: 1370329324}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -5589,7 +5905,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2048197764}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.2}
@@ -5669,7 +5988,10 @@ RectTransform:
   - {fileID: 1380949897}
   - {fileID: 342085614}
   m_Father: {fileID: 282939403}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -5818,7 +6140,10 @@ RectTransform:
   m_Children:
   - {fileID: 1333021029}
   m_Father: {fileID: 1335110064}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5962,7 +6287,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1920490963}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -6042,7 +6370,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1229989688}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -6124,7 +6455,10 @@ RectTransform:
   - {fileID: 1229989688}
   - {fileID: 1920490963}
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 8
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -6151,7 +6485,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: de02d4da22ce08b4a8890958c9220d73, type: 3}
+=======
+  m_Sprite: {fileID: 21300000, guid: ce867ed263be30b42a2857cfd59248b8, type: 3}
+>>>>>>> weizu/main
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6202,7 +6540,10 @@ RectTransform:
   m_Children:
   - {fileID: 1381031363}
   m_Father: {fileID: 1178941504}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -6331,7 +6672,10 @@ RectTransform:
   - {fileID: 440221130}
   - {fileID: 1178941504}
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 4
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -6510,7 +6854,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1195151232}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -6589,13 +6936,17 @@ RectTransform:
   m_Children:
   - {fileID: 1803280883}
   m_Father: {fileID: 1364705399}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
 --- !u!1 &1446869107
 GameObject:
   m_ObjectHideFlags: 0
@@ -6770,6 +7121,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1452621322}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> weizu/main
 --- !u!1 &1474303523
 GameObject:
   m_ObjectHideFlags: 0
@@ -6802,7 +7155,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 594436166}
+<<<<<<< HEAD
   m_RootOrder: 5
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -6891,7 +7247,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1052140634}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -6973,6 +7332,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1535752846}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -6980,6 +7343,7 @@ Transform:
   m_Children:
   - {fileID: 1161998636}
   m_Father: {fileID: 39144925}
+<<<<<<< HEAD
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1586893997
@@ -7036,6 +7400,9 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> weizu/main
 --- !u!1 &1593752175
 GameObject:
   m_ObjectHideFlags: 0
@@ -7070,7 +7437,10 @@ RectTransform:
   m_Children:
   - {fileID: 1768954533}
   m_Father: {fileID: 328062451}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7194,7 +7564,10 @@ GameObject:
   - component: {fileID: 1666878562}
   - component: {fileID: 1666878564}
   - component: {fileID: 1666878563}
+<<<<<<< HEAD
   - component: {fileID: 1666878565}
+=======
+>>>>>>> weizu/main
   m_Layer: 0
   m_Name: Menu4
   m_TagString: Untagged
@@ -7217,7 +7590,10 @@ RectTransform:
   - {fileID: 651830884}
   - {fileID: 348767463}
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 11
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7244,7 +7620,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 0}
+=======
+  m_Sprite: {fileID: 21300000, guid: 260e5b213bb6b214bb07278723807cfb, type: 3}
+>>>>>>> weizu/main
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7262,6 +7642,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1666878561}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!95 &1666878565
 Animator:
   serializedVersion: 5
@@ -7381,6 +7762,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1705874798}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> weizu/main
 --- !u!1 &1736874217
 GameObject:
   m_ObjectHideFlags: 0
@@ -7414,7 +7797,10 @@ RectTransform:
   - {fileID: 1941663077}
   - {fileID: 25002827}
   m_Father: {fileID: 168566913}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -7501,7 +7887,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1052140634}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7591,7 +7980,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1161998636}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7667,7 +8059,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1593752176}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -7741,13 +8136,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1778834593}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 39144925}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1778834595
 MonoBehaviour:
@@ -7784,6 +8186,7 @@ MonoBehaviour:
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
+<<<<<<< HEAD
 --- !u!1 &1788898320
 GameObject:
   m_ObjectHideFlags: 0
@@ -7860,6 +8263,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1788898320}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> weizu/main
 --- !u!1 &1803280882
 GameObject:
   m_ObjectHideFlags: 0
@@ -7891,7 +8296,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1381031363}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.2}
@@ -7967,7 +8375,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1849747620}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -8016,6 +8427,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1824219427}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &1844839036
 GameObject:
   m_ObjectHideFlags: 0
@@ -8092,6 +8504,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1844839036}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> weizu/main
 --- !u!1 &1849747619
 GameObject:
   m_ObjectHideFlags: 0
@@ -8125,7 +8539,10 @@ RectTransform:
   - {fileID: 1824219428}
   - {fileID: 1121013938}
   m_Father: {fileID: 2066489477}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
@@ -8203,7 +8620,10 @@ RectTransform:
   - {fileID: 1148136387}
   - {fileID: 313964201}
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 9
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -8230,7 +8650,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: ec794e34f28331942ae879167cf0d37d, type: 3}
+=======
+  m_Sprite: {fileID: 21300000, guid: c94b86b96c204f84caf6defae136037e, type: 3}
+>>>>>>> weizu/main
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8280,7 +8704,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 594436166}
+<<<<<<< HEAD
   m_RootOrder: 3
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -8370,7 +8797,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -8518,7 +8948,10 @@ RectTransform:
   m_Children:
   - {fileID: 1235873128}
   m_Father: {fileID: 1335110064}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -8662,7 +9095,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1736874218}
+<<<<<<< HEAD
   m_RootOrder: 1
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
@@ -8738,7 +9174,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8684293}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -8818,7 +9257,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 413696392}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -8894,7 +9336,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2120153539}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -8973,7 +9418,10 @@ RectTransform:
   m_Children:
   - {fileID: 1185317468}
   m_Father: {fileID: 634157717}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -9013,7 +9461,10 @@ RectTransform:
   m_Children:
   - {fileID: 1849747620}
   m_Father: {fileID: 867218313}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9079,6 +9530,10 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 0
+<<<<<<< HEAD
+=======
+  m_UpdateRectTransformForStandalone: 0
+>>>>>>> weizu/main
   m_SortingLayerID: 0
   m_SortingOrder: 1
   m_TargetDisplay: 0
@@ -9113,7 +9568,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 313964201}
+<<<<<<< HEAD
   m_RootOrder: 0
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -9162,7 +9620,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2071606873}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &2080873593
+=======
+--- !u!1 &2080524051
+>>>>>>> weizu/main
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9170,23 +9632,37 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 2080873594}
   - component: {fileID: 2080873597}
   - component: {fileID: 2080873596}
   - component: {fileID: 2080873595}
   m_Layer: 0
   m_Name: image_1
+=======
+  - component: {fileID: 2080524052}
+  - component: {fileID: 2080524055}
+  - component: {fileID: 2080524054}
+  - component: {fileID: 2080524053}
+  m_Layer: 0
+  m_Name: TotalMenuOrder
+>>>>>>> weizu/main
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!224 &2080873594
+=======
+--- !u!224 &2080524052
+>>>>>>> weizu/main
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 2080873593}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -9223,11 +9699,28 @@ Animator:
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &2080873596
+=======
+  m_GameObject: {fileID: 2080524051}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2130280699}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 237, y: -92}
+  m_SizeDelta: {x: 280, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2080524053
+>>>>>>> weizu/main
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 2080873593}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -9253,12 +9746,60 @@ MonoBehaviour:
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
 --- !u!222 &2080873597
+=======
+  m_GameObject: {fileID: 2080524051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 694552ad01d06324bb36cf9b72408193, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AllMoney: 0
+--- !u!114 &2080524054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2080524051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 24
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 2
+    m_MaxSize: 40
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "\u5408\u8A08\u91D1\u984D\uFF1A99999999\u5186"
+--- !u!222 &2080524055
+>>>>>>> weizu/main
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 2080873593}
+=======
+  m_GameObject: {fileID: 2080524051}
+>>>>>>> weizu/main
   m_CullTransparentMesh: 1
 --- !u!1 &2120153538
 GameObject:
@@ -9295,7 +9836,10 @@ RectTransform:
   - {fileID: 304689947}
   - {fileID: 1094429189}
   m_Father: {fileID: 2130280699}
+<<<<<<< HEAD
   m_RootOrder: 5
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
@@ -9462,8 +10006,13 @@ RectTransform:
   - {fileID: 1854739945}
   - {fileID: 328062451}
   - {fileID: 1666878562}
+<<<<<<< HEAD
   m_Father: {fileID: 527426904}
   m_RootOrder: 0
+=======
+  - {fileID: 2080524052}
+  m_Father: {fileID: 527426904}
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9529,6 +10078,10 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 0
+<<<<<<< HEAD
+=======
+  m_UpdateRectTransformForStandalone: 0
+>>>>>>> weizu/main
   m_SortingLayerID: 0
   m_SortingOrder: 3
   m_TargetDisplay: 0
@@ -9559,13 +10112,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2140768570}
+<<<<<<< HEAD
+=======
+  serializedVersion: 2
+>>>>>>> weizu/main
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1129.3446, y: 1209.2688, z: -9.7283745}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+>>>>>>> weizu/main
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &2140768572
 AudioSource:
@@ -9709,11 +10269,20 @@ MonoBehaviour:
     TotalSec: 0
     TotalMin: 0
     TotalHou: 0
+<<<<<<< HEAD
     NextFree: []
   MenuList: []
   First: 0
   GameMode: None
   Money: 100000
+=======
+    OrderMenu: []
+  OrderMenu: []
+  MenuList: []
+  First: 0
+  GameMode: None
+  Money: 0
+>>>>>>> weizu/main
   Hour: 0
   Min: 0
   LastGameMode: 
@@ -9736,6 +10305,21 @@ MonoBehaviour:
     TotalSec: 0
     TotalMin: 0
     TotalHou: 0
+<<<<<<< HEAD
     NextFree: []
   LoadEnd: 0
   SaveOK: 0
+=======
+    OrderMenu: []
+  LoadEnd: 0
+  SaveOK: 0
+--- !u!1660057539 &9223372036854775807
+SceneRoots:
+  m_ObjectHideFlags: 0
+  m_Roots:
+  - {fileID: 519420032}
+  - {fileID: 39144925}
+  - {fileID: 2140768571}
+  - {fileID: 75884490}
+  - {fileID: 524796080}
+>>>>>>> weizu/main

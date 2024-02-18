@@ -28,11 +28,19 @@ public class MenuOrder : MonoBehaviour
         }
         if(this.gameObject.name == "Menu3Add")
         {
+<<<<<<< HEAD
             PlayerData.MenuList.Add("Cat");
         }
         if(this.gameObject.name == "Menu4Add")
         {
             PlayerData.MenuList.Add("Shark");
+=======
+            PlayerData.MenuList.Add("Toast");
+        }
+        if(this.gameObject.name == "Menu4Add")
+        {
+            PlayerData.MenuList.Add("Naporitan");
+>>>>>>> weizu/main
         }
     }
 }
